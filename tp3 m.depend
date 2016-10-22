@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1477059229 source:c:\users\m\desktop\tp 3\m\tp3 m\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"functions.h"
+
+1477058370 c:\users\m\desktop\tp 3\m\tp3 m\functions.h
+
+1477058370 source:c:\users\m\desktop\tp 3\m\tp3 m\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"functions.h"
+
+1477080392 source:c:\users\pc\desktop\m\m utn\tp3 m\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"functions.h"
+
+1477080299 c:\users\pc\desktop\m\m utn\tp3 m\functions.h
+
+1477067020 source:c:\users\pc\desktop\m\m utn\tp3 m\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"functions.h"
+
+1477092597 source:c:\users\alumno\desktop\tp3-master\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"functions.h"
+
+1477092583 c:\users\alumno\desktop\tp3-master\functions.h
+
+1477092607 source:c:\users\alumno\desktop\tp3-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"functions.h"
+
